@@ -19,3 +19,6 @@
 [submodule "sim_helper"]
 	path = sim_helper
 	url = http://192.168.1.101/avl-summer-19/sim_helper
+[submodule "setpoint_generator"]
+	path = setpoint_generator
+	url = http://192.168.1.101/avl-summer-19/setpoint_generator.git
