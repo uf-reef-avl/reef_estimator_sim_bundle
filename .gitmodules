@@ -1,24 +1,24 @@
 [submodule "dubins_path"]
 	path = dubins_path
-	url = http://192.168.1.101/AVL-Summer-18/dubins_path
+	url = ../dubins_path
 [submodule "position_to_velocity"]
 	path = position_to_velocity
-	url = http://192.168.1.101/AVL-Summer-18/position_to_velocity
+	url = ../position_to_velocity
 [submodule "reef_control"]
 	path = reef_control
-	url = http://192.168.1.101/AVL-Summer-18/reef_control
+	url = ../reef_control
 [submodule "reef_estimator"]
 	path = reef_estimator
-	url = http://192.168.1.101/AVL-Summer-18/reef_estimator
+	url = ../reef_estimator
 [submodule "reef_msgs"]
 	path = reef_msgs
-	url = http://192.168.1.101/AVL-Summer-18/reef_msgs
+	url = ../reef_msgs
 [submodule "rosflight"]
 	path = rosflight
 	url = https://github.com/rosflight/rosflight/
 [submodule "sim_helper"]
 	path = sim_helper
-	url = http://192.168.1.101/avl-summer-19/sim_helper
+	url = ../sim_helper
 [submodule "setpoint_generator"]
 	path = setpoint_generator
-	url = http://192.168.1.101/avl-summer-19/setpoint_generator.git
+	url = ../setpoint_generator.git
