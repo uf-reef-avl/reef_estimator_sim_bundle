@@ -1,24 +1,24 @@
 [submodule "dubins_path"]
 	path = dubins_path
-	url = ../dubins_path
+	url = https://github.com/uf-reef-avl/dubins_path
 [submodule "position_to_velocity"]
 	path = position_to_velocity
-	url = ../position_to_velocity
+	url = https://github.com/uf-reef-avl/position_to_velocity
 [submodule "reef_control"]
 	path = reef_control
-	url = ../reef_control
+	url = https://github.com/uf-reef-avl/reef_control
 [submodule "reef_estimator"]
 	path = reef_estimator
-	url = ../reef_estimator
+	url = https://github.com/uf-reef-avl/reef_estimator
 [submodule "reef_msgs"]
 	path = reef_msgs
-	url = ../reef_msgs
+	url = https://github.com/uf-reef-avl/reef_msgs
 [submodule "rosflight"]
 	path = rosflight
 	url = https://github.com/rosflight/rosflight/
 [submodule "sim_helper"]
 	path = sim_helper
-	url = ../sim_helper
+	url = https://github.com/uf-reef-avl/sim_helper
 [submodule "setpoint_generator"]
 	path = setpoint_generator
-	url = ../setpoint_generator.git
+	url = https://github.com/uf-reef-avl/setpoint_generator.git
