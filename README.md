@@ -9,7 +9,7 @@ cd ../..
 catkin_make
 ```
 
-*Setting Up The Simulation**
+**Setting Up The Simulation**
 -----------------------------
 
 - To adjust the number of simulated vehicles modify the `./launch/launch_sim.launch` file inside the sim_helper repository.  Changing the `spawn_turtles` argument inside the launch file enables/disables the list of turtlebots.
