@@ -20,7 +20,7 @@ catkin_make
 **Running The Simulation**
 --------------------------
 
-- In one terminal run `python Master.py` from the scripts directory.
+- In one terminal run `python ./sim_helper/scripts/Master.py`.
 
 - Wait a few seconds until __Autopilot ARMED__ and __RC override active__ are printed and then in another terminal run `roslaunch sim_helper sim_estimator.launch` from the launch directory.
 
